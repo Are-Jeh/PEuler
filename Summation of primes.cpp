@@ -25,4 +25,3 @@ int main()
 
 }
 
-// array false; sieve of eratosthenes;
